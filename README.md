@@ -2,7 +2,7 @@
 
 The aim of this repository is to report in GitHub contributions coming from other platforms.
 
-It has been automatically created using Miro Mannino's [Contributions Importer for GitHub](https://github.com/miromannino/contributions-importer-for-github)
+The repo mirrors the activity on a private repo on Gitlab and is here just for information. See https://gitlab.com/dhruveshp for original activity. Actual code will be released soon! Stay tuned.
 
 ## Notice
 
